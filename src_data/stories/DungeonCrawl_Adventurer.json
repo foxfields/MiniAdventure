@@ -2,8 +2,8 @@
     "skills": [
         {
             "id": "swordattack",
-            "name": "Attack",
-            "description": "a basic sword attack",
+            "name": "Artillery",
+            "description": "artillery fire",
             "target": "enemy",
             "speed": 100,
             "damage_types": ["physical", "piercing"],
@@ -54,8 +54,8 @@
     "battlers": [
         {
             "id": "adventurer",
-            "name": "Adventurer",
-            "description": "A basic adventurer",
+            "name": "Human Starship",
+            "description": "Seeking Cascadia",
             "image": "images/Title.png",
             "combatantclass": {
                 "strength": "rankb",
