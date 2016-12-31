@@ -18,11 +18,6 @@
                 "name": "IMAGE_TITLE",
                 "type": "bitmap"
             },
-               {
-                "file": "images/earth.png",
-                "name": "IMAGE_earth",
-                "type": "bitmap"
-            },
             {
                 "file": "images/shop.png",
                 "name": "IMAGE_SHOP",
@@ -109,8 +104,43 @@
                 "type": "bitmap"
             },
             {
+                "file": "images/earth.png",
+                "name": "IMAGE_EARTH",
+                "type": "bitmap"
+            },
+            {
                 "file": "images/dungeonleft.png",
                 "name": "IMAGE_DUNGEONLEFT",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/dungeonstraight1.png",
+                "name": "IMAGE_DUNGEONSTRAIGHT1",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/dungeonright1.png",
+                "name": "IMAGE_DUNGEONRIGHT1",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/dungeonleft1.png",
+                "name": "IMAGE_DUNGEONLEFT1",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/dungeonstraight2.png",
+                "name": "IMAGE_DUNGEONSTRAIGHT2",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/dungeonright2.png",
+                "name": "IMAGE_DUNGEONRIGHT2",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/dungeonleft2.png",
+                "name": "IMAGE_DUNGEONLEFT2",
                 "type": "bitmap"
             },
             {
