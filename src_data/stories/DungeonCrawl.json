@@ -50,6 +50,8 @@
             "id": "dungeon",
             "name": "Interstellar Journey",
             "floor_word": "Sector",
+            "inactive_speed":10,
+            "active_speed": 10,
             "adjacent_locations": ["entrance", "dungeon_floor_20"],
             "background_images": ["images/dungeonstraight.png", "images/dungeonright.png", "images/dungeonleft.png"],
             "fixed_background_image": ["images/newfloor.png"],
