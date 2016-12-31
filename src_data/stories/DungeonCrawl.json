@@ -53,7 +53,7 @@
             "inactive_speed":10,
             "active_speed": 10,
             "adjacent_locations": ["entrance", "dungeon_floor_20"],
-            "background_images": ["images/dungeonstraight.png", "images/dungeonright.png", "images/dungeonleft.png"],
+            "background_images": ["images/dungeonstraight.png", "images/dungeonright.png", "images/dungeonleft.png","images/dungeonstraight1.png", "images/dungeonright1.png", "images/dungeonleft1.png","images/dungeonstraight2.png", "images/dungeonright2.png", "images/dungeonleft2.png",],
             "fixed_background_image": ["images/newfloor.png"],
             "length": 20,
             "floors": 19,
