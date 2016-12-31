@@ -12,8 +12,8 @@
         },
         {
             "id": "bite",
-            "name": "Rat Bite",
-            "description": "a quick bite",
+            "name": "Gatling Cannon",
+            "description": "Gatling Cannon Fire",
             "target": "enemy",
             "speed": 100,
             "damage_types": ["physical", "piercing"],
@@ -22,8 +22,8 @@
         },
         {
             "id": "bigbite",
-            "name": "Big Bite",
-            "description": "a powerful bite",
+            "name": "Rocket Pod",
+            "description": "a Rocket Pod",
             "target": "enemy",
             "speed": 100,
             "damage_types": ["physical", "piercing"],
@@ -95,7 +95,7 @@
         },
         {
             "id": "enraged_rat",
-            "name": "Enraged Rat",
+            "name": "Westa Fleet",
             "image": "images/enragedrat.png",
             "combatantclass": {
                 "strength": "rankb",
@@ -253,8 +253,8 @@
     "dialog": [
         {
             "id": "rat_enrage",
-            "name": "Rat",
-            "text": "The rat is getting enraged!"
+            "name": "Westa Fighter",
+            "text": "More enemies have arrived!"
         }
     ]
 }
