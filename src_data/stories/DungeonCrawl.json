@@ -1,8 +1,8 @@
 {
     "id": 567,
     "version": 4,
-    "name": "Dungeon Crawl",
-    "description": "A 20 floor dungeon.",
+    "name": "Cascadia",
+    "description": "An interstellar journey.",
     "start_location": "entrance",
     "xp_monsters_per_level": 3,
     "xp_difference_scale": 50,
@@ -13,11 +13,11 @@
     "locations": [
         {
             "id": "entrance",
-            "name": "Dungeon Entrance",
-            "menu_name": "Enter",
-            "menu_description": "Enter the dungeon",
+            "name": "Earth",
+            "menu_name": "Leave",
+            "menu_description": "Set out from Earth",
             "adjacent_locations": ["dungeon_start"],
-            "background_images": ["images/newfloor.png"]
+            "background_images": ["images/earth.png"]
         },
         {
             "id": "dungeon_floor_20",
@@ -48,8 +48,8 @@
     "dungeons": [
         {
             "id": "dungeon",
-            "name": "Dungeon",
-            "floor_word": "Floor",
+            "name": "Interstellar Journey",
+            "floor_word": "Sector",
             "adjacent_locations": ["entrance", "dungeon_floor_20"],
             "background_images": ["images/dungeonstraight.png", "images/dungeonright.png", "images/dungeonleft.png"],
             "fixed_background_image": ["images/newfloor.png"],
@@ -57,7 +57,7 @@
             "floors": 19,
             "base_level": 1,
             "level_rate": 1,
-            "encounter_chance": 13,
+            "encounter_chance": 50,
             "monsters": ["rat", "goblin", "wizard", "zombie", "turtle", "lich"],
             "monster_scaling": 2       
         }
